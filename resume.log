@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  30 NOV 2017 16:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 DEC 2017 21:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -187,33 +187,33 @@ LaTeX Info: Redefining \textsw on input line 156.
 (./resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 33.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Try loading font information for OT1+EBGaramond-OsF on inpu
-t line 32.
+t line 33.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ebgaramond/OT1EBGaramond-OsF.fd
 File: OT1EBGaramond-OsF.fd 2014/07/06 (autoinst) Font definitions for OT1/EBGar
 amond-OsF.
 )
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 32.
+(Font)              scaled to size 10.0pt on input line 33.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -252,30 +252,30 @@ LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' will be
 \c@mv@tabular=\count91
 \c@mv@boldtabular=\count92
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 32.
+(Font)              scaled to size 17.28pt on input line 33.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/bx/n' in size <17.28> not av
 ailable
 (Font)              Font shape `OT1/EBGaramond-OsF/m/n' tried instead on input 
-line 32.
+line 33.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 32.
+(Font)              scaled to size 17.28pt on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 32.
+(Font)              <7> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 32.
+(Font)              <5> on input line 33.
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 32--32
+Overfull \hbox (30.0pt too wide) in paragraph at lines 33--33
 [] 
  []
 
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/bx/n' in size <10> not avail
 able
 (Font)              Font shape `OT1/EBGaramond-OsF/m/n' tried instead on input 
-line 38.
+line 39.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 38.
+(Font)              scaled to size 10.0pt on input line 39.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 40.
+(Font)              scaled to size 10.0pt on input line 41.
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
@@ -283,18 +283,18 @@ LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/it' will be
 Here is how much of TeX's memory you used:
  2017 strings out of 493014
  30076 string characters out of 6133351
- 85755 words of memory out of 5000000
+ 85816 words of memory out of 5000000
  5574 multiletter control sequences out of 15000+600000
  6681 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,6n,33p,222b,150s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,6n,33p,223b,150s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/ebgaramond/
 ebgm_voynk7.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/ebgaramond/
 ebgm_l5duak.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/ebgaramo
 nd/EBGaramond12-Italic.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
 ic/ebgaramond/EBGaramond12-Regular.pfb></usr/local/texlive/2016/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (1 page, 105380 bytes).
+Output written on resume.pdf (1 page, 109611 bytes).
 PDF statistics:
  22 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream
