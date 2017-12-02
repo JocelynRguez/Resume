@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 DEC 2017 21:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 DEC 2017 21:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -287,14 +287,14 @@ Here is how much of TeX's memory you used:
  5574 multiletter control sequences out of 15000+600000
  6681 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,6n,33p,223b,150s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,6n,33p,231b,150s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/ebgaramond/
 ebgm_voynk7.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/ebgaramond/
 ebgm_l5duak.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/ebgaramo
 nd/EBGaramond12-Italic.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
 ic/ebgaramond/EBGaramond12-Regular.pfb></usr/local/texlive/2016/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (1 page, 109611 bytes).
+Output written on resume.pdf (1 page, 109614 bytes).
 PDF statistics:
  22 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream
